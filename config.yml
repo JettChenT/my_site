@@ -1,0 +1,24 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: Jett Chen
+theme: PaperMod
+params:
+  defaultTheme: auto
+  profileMode:
+        enabled: true
+        title: "Jett Chen" # optional default will be site title
+        subtitle: "Hello, I'm Jett, I like Machine Learning, Computer Graphics, OSINT, System Architecture, and more." # optional default will be site subtitle
+        imageUrl: "https://avatars.githubusercontent.com/u/45888395?v=4" # optional
+        imageTitle: "My avatar" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+  socialIcons:
+        - name: github
+          url: "https://github.com/JettChenT"
+        - name: medium
+          url: "https://medium.com/@JettChenT"
+        - name: twitter
+          url: "https://twitter.com/JettChen5"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/8554592/jett-chen"
+
