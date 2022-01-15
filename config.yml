@@ -3,6 +3,8 @@ languageCode: en-us
 title: Jett Chen
 theme: PaperMod
 params:
+  env: production
+  description: "Jett chen's personal website"
   defaultTheme: auto
   profileMode:
         enabled: true
