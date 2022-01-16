@@ -5,6 +5,8 @@ theme: PaperMod
 params:
   env: production
   description: "Jett chen's personal website"
+  images:
+    - https://avatars.githubusercontent.com/u/45888395?v=4
   defaultTheme: auto
   profileMode:
         enabled: true
