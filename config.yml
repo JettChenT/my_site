@@ -16,6 +16,9 @@ params:
         imageTitle: "My avatar" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
+        buttons:
+            - name: "Read my Blog"
+              url: "https://blog.jettchen.me"
   socialIcons:
         - name: github
           url: "https://github.com/JettChenT"
