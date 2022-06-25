@@ -22,10 +22,16 @@ params:
   socialIcons:
         - name: github
           url: "https://github.com/JettChenT"
-        - name: medium
-          url: "https://medium.com/@JettChenT"
-        - name: twitter
-          url: "https://twitter.com/JettChen5"
         - name: stackoverflow
           url: "https://stackoverflow.com/users/8554592/jett-chen"
+        - name: ctftime
+          url: "https://ctftime.org/user/86638"
+        - name: kaggle
+          url: "https://www.kaggle.com/jettchentt"
+        - name: twitter
+          url: "https://twitter.com/JettChen5"
+        - name: wechat
+          url: "https://s2.loli.net/2022/06/25/mI4bOeJ6B3Kvixy.jpg"
+        - name: email
+          url: "mailto:contact@jettchen.me"
 
