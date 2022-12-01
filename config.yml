@@ -11,7 +11,7 @@ params:
   profileMode:
         enabled: true
         title: "Jett Chen" # optional default will be site title
-        subtitle: "Hello, I'm Jett, I like Machine Learning, Computer Graphics, OSINT, System Architecture, and more." # optional default will be site subtitle
+        subtitle: "Hello, I'm Jett, I am a highschool student interested in Machine Learning, Computer Graphics, Hacking(OSINT & CTFs), System Architecture, and building software." # optional default will be site subtitle
         imageUrl: "https://avatars.githubusercontent.com/u/45888395?v=4" # optional
         imageTitle: "My avatar" # optional
         imageWidth: 120 # custom size
