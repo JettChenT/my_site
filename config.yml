@@ -4,7 +4,7 @@ title: Jett Chen
 theme: PaperMod
 params:
   env: production
-  description: "Jett chen's personal website"
+  description: "Jett Chen's personal website"
   images:
     - https://avatars.githubusercontent.com/u/45888395?v=4
   defaultTheme: auto
@@ -30,8 +30,6 @@ params:
           url: "https://www.kaggle.com/jettchentt"
         - name: twitter
           url: "https://twitter.com/JettChen5"
-        - name: wechat
-          url: "https://s2.loli.net/2022/06/25/mI4bOeJ6B3Kvixy.jpg"
         - name: email
           url: "mailto:contact@jettchen.me"
 
