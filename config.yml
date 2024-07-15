@@ -1,4 +1,4 @@
-baseURL: 'https://jettchen.me/'
+baseURL: "https://jettchen.me/"
 languageCode: en-us
 title: Jett Chen
 theme: PaperMod
@@ -9,27 +9,20 @@ params:
     - https://avatars.githubusercontent.com/u/45888395?v=4
   defaultTheme: auto
   profileMode:
-        enabled: true
-        title: "Jett Chen" # optional default will be site title
-        subtitle: "Hello, I'm Jett, I am a highschool student interested in Machine Learning, Computer Graphics, Hacking(OSINT & CTFs), System Architecture, and building software." # optional default will be site subtitle
-        imageUrl: "https://avatars.githubusercontent.com/u/45888395?v=4" # optional
-        imageTitle: "My avatar" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
-        buttons:
-            - name: "Read my Blog"
-              url: "https://blog.jettchen.me"
+    enabled: true
+    title: "Jett Chen" # optional default will be site title
+    subtitle: "I like building and breaking software. Exploring Cybersecurity, AI, and Systems." # optional default will be site subtitle
+    imageUrl: "https://avatars.githubusercontent.com/u/45888395?v=4" # optional
+    imageTitle: "My avatar" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: "Read my Blog"
+        url: "https://blog.jettchen.me"
   socialIcons:
-        - name: github
-          url: "https://github.com/JettChenT"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/8554592/jett-chen"
-        - name: ctftime
-          url: "https://ctftime.org/user/86638"
-        - name: kaggle
-          url: "https://www.kaggle.com/jettchentt"
-        - name: twitter
-          url: "https://twitter.com/JettChen5"
-        - name: email
-          url: "mailto:contact@jettchen.me"
-
+    - name: github
+      url: "https://github.com/JettChenT"
+    - name: twitter
+      url: "https://twitter.com/JettChen5"
+    - name: email
+      url: "mailto:contact@jettchen.me"
